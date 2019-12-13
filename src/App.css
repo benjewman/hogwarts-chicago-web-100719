@@ -138,3 +138,7 @@ ul {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+#dropdown-overflow {
+  z-index: 100;
+}
